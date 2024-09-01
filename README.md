@@ -1,5 +1,4 @@
 # Identifying Entities in Healthcare Data - Syntactic Processing Assignment
-> Outline a brief description of your project.
 
 
 ## Table of Contents
