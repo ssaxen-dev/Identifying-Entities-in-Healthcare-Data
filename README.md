@@ -22,13 +22,6 @@ we need to perform the following broad steps:
 - After that, you need to create a dictionary in which diseases are keys and treatments are values.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-Based on the models created accuracy increased from 90.7 to 91.06 which helps in predicting the treatment for disease name 'hereditary retinoblastoma' is 'radiotherapy'
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-
 ## Technologies Used
 - Numpy
 - Pandas
@@ -37,6 +30,12 @@ Based on the models created accuracy increased from 90.7 to 91.06 which helps in
 - Jupyter
 - Spacy
 - Sklearn
+
+
+<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Conclusions
+Based on the models created accuracy increased from 90.7 to 91.06 which helps in predicting the treatment for disease name 'hereditary retinoblastoma' is 'radiotherapy'
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
